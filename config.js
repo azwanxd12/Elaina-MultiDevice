@@ -14,7 +14,7 @@
 // • Rasel comel
 // • ImYanXiao
 // • Xtreshe (Beban)
-// • Dll
+// • wanzz
 
 //[!] Jangan Lupa Ganti Ownernya
 
@@ -59,8 +59,8 @@ global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281231079387' //Nomor Bot
-global.nomorown = '6285736178354' //Nomor Owner
+global.nomorbot = '628818172681' //Nomor Bot
+global.nomorown = '62895412284006' //Nomor Owner
 global.namebot = 'Elaina BOT' //Nama Bot
 global.nameown = '𝓧𝓲𝓪𝓸 - 𝓨𝓪𝓷' // Nama Owner
 
